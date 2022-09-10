@@ -30,3 +30,5 @@ revenue_based_on_cogs = Revenue_growth().revenue_growth_by_cogs()
 
 individual_reports = Revenue_growth().company_growth()
 
+
+
