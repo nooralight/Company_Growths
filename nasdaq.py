@@ -22,4 +22,4 @@ def getting_subsectors():
 
 
 
-company_info,subsectors, symbols = getting_subsectors()
+#company_info,subsectors, symbols = getting_subsectors()
